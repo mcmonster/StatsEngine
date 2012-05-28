@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/fluent-hc-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/httpclient-cache-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/httpcomponents-client-4.2/lib/httpmime-4.2.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/signpost-commonshttp4-1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/signpost-core-1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/jersey-bundle-1.12.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/openssoclientsdk.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/moxx/Downloads/jetty-7.0.0pre0.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/Downloads/jetty-util-7.0.0pre0.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/moxx/workspace/jsoup-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
